@@ -1,0 +1,16 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "Youtube clone backend with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "backend"
+  ],
+  "author": "Ramesh Marandi",
+  "license": "ISC"
+}
